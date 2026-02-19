@@ -1,4 +1,4 @@
-# mckiza.github.io
+# Kuperson.github.io
 Website for kin.lancelot
 <!doctype html>
 <html lang="en">
@@ -10,7 +10,7 @@ Website for kin.lancelot
 
   <!-- Open Graph / Twitter -->
   <meta property="og:title" content="mckiza — Software Engineer & Designer" />
-  <meta property="og:description" content="Portfolio and projects by mckiza — software engineering, web development and design." />
+  <meta property="og:description" content="Portfolio and projects by Kuperson — software engineering, web development and design." />
   <meta property="og:type" content="website" />
   <!-- Replace with a real image URL after you add /assets/og-image.png -->
   <meta property="og:image" content="https://mckiza.github.io/assets/og-image.png" />
@@ -26,12 +26,12 @@ Website for kin.lancelot
   <link rel="icon" href="/assets/favicon.ico" />
 
   <!-- Canonical (optional) -->
-  <link rel="canonical" href="https://mckiza.github.io/" />
+  <link rel="canonical" href="https://Kuperson.github.io/" />
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="brand" href="/">mckiza</a>
+      <a class="brand" href="/">Kuperson</a>
 
       <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" id="navToggle">
         <span class="sr-only">Toggle navigation</span>
@@ -52,7 +52,7 @@ Website for kin.lancelot
   <main>
     <section class="hero">
       <div class="container hero-inner">
-        <h1>Hi — I'm mckiza.<br /><span class="accent">I build web tools & delightful UI.</span></h1>
+        <h1>Hi — I'm Kuperson.<br /><span class="accent">I build web tools & delightful UI.</span></h1>
         <p class="lead">Software engineer, product-minded, with a focus on clean interfaces and reliable systems. I build open-source and client-facing projects.</p>
         <p>
           <a class="btn" href="#projects">See my work</a>
@@ -70,7 +70,7 @@ Website for kin.lancelot
         </div>
         <div class="profile-card">
           <!-- Replace placeholder avatar with your image at /assets/avatar.jpg -->
-          <img alt="mckiza avatar" src="/assets/avatar.jpg" class="avatar" />
+          <img alt="Kuperson avatar" src="/assets/avatar.jpg" class="avatar" />
           <div>
             <p><strong>Location:</strong> (Your city)</p>
             <p><strong>Available for:</strong> freelance, contract, open-source collaboration</p>
@@ -83,24 +83,24 @@ Website for kin.lancelot
       <h2>Selected projects</h2>
       <div class="cards-grid">
         <article class="card">
-          <h3><a href="https://github.com/mckiza/example-project-1" target="_blank" rel="noopener">Project One</a></h3>
+          <h3><a href="https://github.com/Kuperson/example-project-1" target="_blank" rel="noopener">Project One</a></h3>
           <p>Short description of the project, tech used, and impact.</p>
           <p class="muted">React · TypeScript · Vercel</p>
         </article>
 
         <article class="card">
-          <h3><a href="https://github.com/mckiza/example-project-2" target="_blank" rel="noopener">Project Two</a></h3>
+          <h3><a href="https://github.com/Kuperson/example-project-2" target="_blank" rel="noopener">Project Two</a></h3>
           <p>Short description of the project, tech used, and impact.</p>
           <p class="muted">Node · API · Docker</p>
         </article>
 
         <article class="card">
-          <h3><a href="https://github.com/mckiza/example-project-3" target="_blank" rel="noopener">Project Three</a></h3>
+          <h3><a href="https://github.com/Kuperson/example-project-3" target="_blank" rel="noopener">Project Three</a></h3>
           <p>Short description of the project, tech used, and impact.</p>
           <p class="muted">Design System · Accessibility</p>
         </article>
       </div>
-      <p class="more"><a href="https://github.com/mckiza?tab=repositories" target="_blank" rel="noopener">More projects on GitHub →</a></p>
+      <p class="more"><a href="https://github.com/Kuperson?tab=repositories" target="_blank" rel="noopener">More projects on GitHub →</a></p>
     </section>
 
     <section id="blog" class="section container">
@@ -115,7 +115,7 @@ Website for kin.lancelot
 
     <section id="contact" class="section contact container">
       <h2>Contact</h2>
-      <p>If you'd like to work together or chat about open-source, email me at <a href="mailto:mckiza165@gmail.com">mckinnankuperson@gmail.com</a> or find me on <a href="https://github.com/mckiza" target="_blank" rel="noopener">GitHub</a>.</p>
+      <p>If you'd like to work together or chat about open-source, email me at <a href="mailto:mckinnankuperson@gmail.com">mckinnankuperson@gmail.com</a> or find me on <a href="https://github.com/Kuperson" target="_blank" rel="noopener">GitHub</a>.</p>
 
       <div class="contact-grid">
         <div class="contact-card">
@@ -132,7 +132,7 @@ Website for kin.lancelot
 
   <footer class="site-footer">
     <div class="container footer-inner">
-      <p>© <span id="year"></span> mckiza — <a href="https://github.com/mckiza" target="_blank" rel="noopener">GitHub</a> · <a href="/resume.pdf">Resume</a></p>
+      <p>© <span id="year"></span> Kuperson — <a href="https://github.com/mckiza" target="_blank" rel="noopener">GitHub</a> · <a href="/resume.pdf">Resume</a></p>
     </div>
   </footer>
 
